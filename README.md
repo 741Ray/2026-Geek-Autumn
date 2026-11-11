@@ -1,13 +1,16 @@
 # 2026 秋季 Geek 组 | 写在前边的话
 
-> 前往 Geek 的路 -> [考核书](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/first_half_tasks)
+> 考核任务相关提示💡：
 >
-> AI工作流选做扩展 ->[AI工作流选做扩展](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/extend-task)
+> 1. (主线任务)前往 Geek 的路 -> [考核书(前期任务)](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/first_half_tasks)
+>
+> 2. (支线任务)AI工作流选做扩展 ->[AI工作流选做知识扩展任务](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/extend-task)
+>    建议所有同学都尽量在完成主线的情况下，把支线任务也推进呀（可以提高任务最终评分😁）
 
 ![img](https://raw.githubusercontent.com/itawenya/pic/main/IMG_5027(20221026-061239).JPG)
 
 遇到问题，先搜索，先自己想；
-想清楚了问题是什么，再去问人——带着具体问题问，比带着模糊困惑问，收获多得多
+想清楚了问题是什么，再去问人——带着 “具体问题” ➕ “自己做了哪些尝试，结果如何” 问，比带着模糊困惑问，收获多得多
 
 > **必读项目：[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)**
 >
@@ -254,9 +257,3 @@
 **考核有阶段，学习和探索却不必止步于考核**
 
 *Keep Curiosity. The Power Of Change.*
-
-
-
-> 前往 Geek 的路 -> [考核书](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/first_half_tasks)
->
-> AI工作流选做扩展 ->[AI工作流选做扩展](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/extend-task)
