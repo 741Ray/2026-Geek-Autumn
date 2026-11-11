@@ -2,7 +2,7 @@
 
 > 前往 Geek 的路 -> [考核书](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/first_half_tasks)
 >
-> AI工作流选做扩展 ->[AI工作流选做扩展](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/extended-task)
+> AI工作流选做扩展 ->[AI工作流选做扩展](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/extend-task)
 
 ![img](https://raw.githubusercontent.com/itawenya/pic/main/IMG_5027(20221026-061239).JPG)
 
@@ -259,4 +259,4 @@
 
 > 前往 Geek 的路 -> [考核书](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/first_half_tasks)
 >
-> AI工作流选做扩展 ->[AI工作流选做扩展](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/extended-task)
+> AI工作流选做扩展 ->[AI工作流选做扩展](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/extend-task)
