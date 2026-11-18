@@ -4,9 +4,12 @@
 >
 > 1. (主线任务)前往 Geek 的路
 >    1. [技术方向考核书(前期任务)](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/main/tech-assessment/stage1)
+>    1. [PM方向考核任务书](https://github.com/ntgeek-team/2026-Geek-Autumn/blob/main/pm-assessment/PM%20%E8%80%83%E6%A0%B8%E4%BB%BB%E5%8A%A1%E4%B9%A6.md)
 >
-> 2. (支线任务)AI工作流选做扩展 -> [AI工作流选做知识扩展任务](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/main/(extended)ai-assessment)
->    建议所有同学都尽量在完成主线的情况下，把支线任务也推进呀（可以提高任务最终评分😁）
+> 2. (支线任务)AI工作流选做扩展
+>    1. [AI工作流选做知识扩展任务](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/main/(extended)ai-assessment)
+>       建议所有同学都尽量在完成主线的情况下，把支线任务也推进呀（可以提高任务最终评分😁）
+>
 >
 > ps：考核书无论前期，还是后期方向分流，都不代表大家未来进组一定要做这些方向，只不过是前期可以通过这些考核去帮助大家获得一些的逻辑思维能力，探索能力，我们期待大家能够在组里的这些年，找到自己真正感兴趣的方向并跟着自己的好奇心探索下去
 
