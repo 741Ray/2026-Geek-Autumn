@@ -3,7 +3,7 @@
 > 考核任务相关提示💡：
 >
 > 1. (主线任务)前往 Geek 的路
->    1. 技术方向考核书(前期任务)](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/main/tech-assessment/stage1)
+>    1. [技术方向考核书(前期任务)](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/main/tech-assessment/stage1)
 >
 > 2. (支线任务)AI工作流选做扩展 -> [AI工作流选做知识扩展任务](https://github.com/ntgeek-team/2026-Geek-Autumn/tree/main/(extended)ai-assessment)
 >    建议所有同学都尽量在完成主线的情况下，把支线任务也推进呀（可以提高任务最终评分😁）
