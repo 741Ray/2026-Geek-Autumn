@@ -96,7 +96,7 @@
 
 1. 使用 Git Bash 提交并推送名为 `hello.md` 的文档到远程仓库，内容为 `# Hello + 你的姓名`，并在 Git 学习笔记中简单说明完整提交的流程
 2. 你认为使用 Git Bash 提交麻烦吗？找一找，有没有更方便、更有效率的提交方式？
-3. 我们在当前仓库的 `first_half_tasks` 分支下留有一个名为 `git-idea` 的文件夹，你们可以将你们的 Git 学习感想(记得标注名字)放进来,并向我们提 PR
+3. 我们在当前仓库的 `main` 分支下的 `tech-assessment`/`stage1` 下 留有一个名为 `git-idea` 的文件夹，你们可以将你们的 Git 学习感想(记得标注名字)放进来，并向我们提 PR
 4. 通过文件夹找各阶段的文件太繁琐了，既然已经学会了 Markdown，你就可以为你的仓库建立一个 README.md 索引，点击即可跳转。实现它！
 5. 在学习过程中遇到的问题、报错等，可以写进**问题解决记录**，养成记录问题的好习惯
 6. **[选做-进阶]** 如果提交错了怎么办？——了解一下版本回滚和冲突解决。这会让你收获很多！
@@ -218,8 +218,8 @@ graph LR
 #### 📑最终目标
 
 1. **👉复刻 Geek 组旧版的招新网站，将完成的网页挂载在 `GitHub Pages` 上，并把链接记录在 `Tasks` 仓库  `README` 文档里👈**
-   - [复刻网站的资料](https://github.com/ntgeek-team/2026-Geek-Autumn/blob/first_half_tasks/%E5%A4%8D%E5%88%BB%E6%8B%9B%E6%96%B0%E7%BD%91%E7%AB%99%E8%A6%81%E6%B1%82%E7%82%B9.zip)
-   		- [download](https://github.com/ntgeek-team/2026-Geek-Autumn/raw/refs/heads/first_half_tasks/%E5%A4%8D%E5%88%BB%E6%8B%9B%E6%96%B0%E7%BD%91%E7%AB%99%E8%A6%81%E6%B1%82%E7%82%B9.zip)
+   - [复刻网站的资料](https://github.com/ntgeek-team/2026-Geek-Autumn/blob/main/tech-assessment/stage1/%E5%A4%8D%E5%88%BB%E6%8B%9B%E6%96%B0%E7%BD%91%E7%AB%99%E8%A6%81%E6%B1%82%E7%82%B9.zip)
+   		- [download](https://github.com/ntgeek-team/2026-Geek-Autumn/raw/refs/heads/main/tech-assessment/stage1/%E5%A4%8D%E5%88%BB%E6%8B%9B%E6%96%B0%E7%BD%91%E7%AB%99%E8%A6%81%E6%B1%82%E7%82%B9.zip)
 
 
 2. 仿照阶段三的任务2，完成你复刻此项目的 “编后感”
@@ -284,7 +284,7 @@ graph LR
 #### 💕友情提示
 
 1. 推荐去官网下载使用 Unity 2022.3 LTS (2022.3.62f3)LTS 版本的 unity
-2. [使用 GitHub Desktop 管理你的项目](https://www.bilibili.com/video/BV13W411U7HY/?spm_id_from=333.788.recommend_more_video.2&vd_source=99f7033efb216e152f86d8f8a2de3848)
+2. [使用 GitHub Desktop 管理你的项目](https://www.bilibili.com/video/BV13W411U7HY)
 3. 考核任务有描述不理解的地方可咨询负责人员
 
 #### 📅**第四阶段检查时间**
