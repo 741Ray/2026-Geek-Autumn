@@ -1,8 +1,8 @@
-# 学习笔记可参考模板(这是Title)
+# 学习笔记的模板(这是Title)
 
 > 提交git学习感想时，需要你在这个文档里备注好你的名字奥
 >
-> `for example` — xxx
+> `for example` — Jian
 
 ## 学习背景
 
