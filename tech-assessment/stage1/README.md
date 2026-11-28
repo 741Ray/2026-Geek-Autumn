@@ -101,6 +101,10 @@
 5. 在学习过程中遇到的问题、报错等，可以写进**问题解决记录**，养成记录问题的好习惯
 6. **[选做-进阶]** 如果提交错了怎么办？——了解一下版本回滚和冲突解决。这会让你收获很多！
 
+**🫲提交与协作提示🫱**
+
+平时练习时，每次提交都用一句话说清改了什么，方便自己之后回看。和队友一起做项目时，用 PR 标题概括改动，正文交代原因、当前进度和下一步。有需要别人确认的地方，就直接写出来。提交 Git 学习感想时，可以参考 `docs(git-idea): 添加张三的 Git 学习感想`，发 PR 前在 **Files changed** 里确认改动范围。
+
 ### 📑这阶段后，你的仓库里应该有
 
 * **Git 学习笔记**
@@ -118,6 +122,7 @@
 5. [git 命令逻辑混乱？点这里把你理清](https://my-note-drawing-bed-1322822796.cos.ap-shanghai.myqcloud.com/picture/202405192337199.png)
 6. 环境配置中遇到的问题和解决方案也可以顺手记录并上传，这是很好的加分项
 7. 上传到仓库中的笔记里的图片可能会显示不出来，想想如何解决（“图床”或许是个好方法）
+8. Git commit message 以及 PR message 写作可参考[约定式提交（中文版）](https://www.conventionalcommits.org/zh-hans/v1.0.0/)、[Angular 提交信息指南](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)、[GitHub PR 写作指南](https://docs.github.com/en/pull-requests/concepts/helping-others-review-your-changes)。
 
 #### **📅第二阶段检查日期时间**
 

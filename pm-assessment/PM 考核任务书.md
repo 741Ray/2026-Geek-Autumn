@@ -71,6 +71,12 @@
   - 这份笔记凭什么称得上整洁规范？你遵循了哪些规范？
     希望大家可以思考 Markdown 中每个语法的应用场景，给自己的文档写作风格设定一套适合自己习惯的规范
 
+**提交与协作提示**
+
+平时更新笔记、调研记录或需求文档时，可以用 `docs(research): 补充三款编辑器的导出功能对比` 这样的提交信息记下这次做了什么，方便自己回看，也方便队友跟进。发 PR 时，用标题概括改动，正文说清楚为什么改、做到哪一步，以及接下来准备做什么或需要讨论什么。
+
+提交信息和 PR 写作参考见[约定式提交（中文版）](https://www.conventionalcommits.org/zh-hans/v1.0.0/)、[Angular 提交信息指南](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)、[GitHub PR 写作指南](https://docs.github.com/en/pull-requests/concepts/helping-others-review-your-changes)。
+
 ### 3.3 **读书任务《从点子到产品》/《人人都是产品经理2.0》/《解构产品经理》三选一**
 
 *（在本阶段仅需准备好书，阅读后续考核任务中会有，同理，大家还没挣钱，可以考虑下🆓 pdf，可略读）*
